@@ -223,3 +223,6 @@ body.scale-cv {
   visibility: visible;
   bottom: 5rem;
 }
+.about__description {
+  text-indent: 10px;
+}

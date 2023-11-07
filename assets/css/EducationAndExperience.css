@@ -27,3 +27,6 @@
   font-size: var(--small-font-size);
 }
 
+.experience__description {
+  text-indent: 10px;
+}
