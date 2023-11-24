@@ -1,4 +1,4 @@
-/* For small devices, menu two columns */
+/* For small devices, menu two columns *
 @media screen and (max-width: 320px) {
   .nav__list {
     grid-template-columns: repeat(2, 1fr);
@@ -44,15 +44,15 @@
   .home__button-movil {
     display: none;
   }
-  .references__container {
+  /* .references__container {
     grid-template-columns: repeat(2, 1fr);
-  }
+  } */
   .languages__content {
     grid-template-columns: repeat(3, max-content);
     column-gap: 3.5rem;
   }
-  .interests__container {
+  /* .interests__container {
     grid-template-columns: repeat(4, max-content);
-    column-gap: 3.5rem;
-  }
+    column-gap: 8.5rem;
+  } */
 }
